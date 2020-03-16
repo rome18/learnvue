@@ -6,11 +6,13 @@
 </template>
 
 <script>
-  var app = new Vue({
-    el: '#app',
-    data: {
+  export default{
+    data: function(){
+      return{
       fullname: 'Your Full Name!'
+      }
+     
     }
-  })
+  }
 </script>
 
