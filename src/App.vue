@@ -7,12 +7,9 @@
 
 <script>
   export default{
-    data: function(){
-      return{
+    data:()=>({
         fullname: 'Your Full Name!'
-      }
-     
-    }
+    })
   }
 </script>
 
