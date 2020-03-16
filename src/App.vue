@@ -9,7 +9,7 @@
   export default{
     data: function(){
       return{
-      fullname: 'Your Full Name!'
+        fullname: 'Your Full Name!'
       }
      
     }
